@@ -65,19 +65,19 @@ export const NAV_LINKS = [
 // Services
 export const SERVICES = [
   {
-    title: "Web Developer",
+    title: "3D Modeling",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Animation",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "3D Rendering",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "AR / VR",
     icon: creator,
   },
 ] as const;
@@ -141,29 +141,24 @@ export const TECHNOLOGIES = [
 // Experiences
 export const EXPERIENCES = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Freelancer 3D visualization artist",
+    company_name: "",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I worked as a 3D visualization Artist, where I contributed to 3D Interior Projects.",
+      " In these projects, my responsibilities included Modeling texturing, lighting, Animation and rendering.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "3D visualization artist",
+    company_name: "Panther Studio | Ahmedabad",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I worked as a 3D Generalist, where I contributed to various Projects. In these projects, my responsibilities included texturing, lighting, Animation and rendering.",
     ],
   },
   {

@@ -54,11 +54,19 @@ export const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="empty-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I'm a skilled website developer with experience in TypeScript and
-          Javascript, and expertise in frameworks like React, Node.js, and
-          Three.js. I'm a quick learner and collaborate closely with clients to
-          create efficient, scalable, and user-friendly solutions that solve
-          real-world problems. Let's work together to bring your ideas to life!
+          As a highly skilled and dedicated 3D Artist and Generalist with two
+          years of experience, I am known for my unwavering work ethic and
+          exceptional artistic abilities. Proficient in a wide range of
+          disciplines including 3D modeling, texturing, lighting, and rendering,
+          I am committed to delivering high-quality results in every project I
+          undertake. My excellent communication and teamwork skills enable me to
+          collaborate effectively with clients and colleagues, ensuring seamless
+          cooperation and outstanding outcomes. I am deeply committed to
+          continuous learning, consistently staying up-to-date with the latest
+          industry trends and advancements to maintain relevance and innovation
+          in my work. A hardworking professional driven by a passion for
+          creating visually stunning and engaging artwork, I approach each
+          project with enthusiasm and a commitment to excellence.
         </motion.p>
 
         {/* Service Card */}
