@@ -11,7 +11,7 @@ __metadata:
   dependencies:
     "@emailjs/browser": "npm:^4.3.3"
     "@react-three/drei": "npm:^9.105.6"
-    "@react-three/fiber": "npm:^8.16.3"
+    "@react-three/fiber": "npm:^8.16.7"
     "@types/react": "npm:^18.3.1"
     "@types/react-dom": "npm:^18.3.0"
     "@types/react-vertical-timeline-component": "npm:^3.3.6"
@@ -746,9 +746,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@react-three/fiber@npm:^8.16.3":
-  version: 8.16.3
-  resolution: "@react-three/fiber@npm:8.16.3"
+"@react-three/fiber@npm:^8.16.7":
+  version: 8.16.7
+  resolution: "@react-three/fiber@npm:8.16.7"
   dependencies:
     "@babel/runtime": "npm:^7.17.8"
     "@types/react-reconciler": "npm:^0.26.7"
@@ -783,7 +783,7 @@ __metadata:
       optional: true
     react-native:
       optional: true
-  checksum: 10c0/b12064e766e4c58dde4b41ac41aea7e5643252b5ed691a4a8343a5c05f64f1e9f2a4d5ba4b1c55789ea1beb2567ba00666509e9d70059b0cd77d2bfba0138b99
+  checksum: 10c0/51b22f1e149332de497a654464d4f19c70984bee02029c47ba746af499ac77e6bc8b06778359086bf59718a3f82ef99f7c8421a85da3c987773f0e48915326e9
   languageName: node
   linkType: hard
 
